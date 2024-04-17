@@ -1,4 +1,4 @@
-package 演算子;
+package 演算子_実力確認問題;
 
 /**
  * HelloWorld クラス
