@@ -9,6 +9,6 @@ package 演算子_実力確認問題;
 	  * @param args 実行引数
 	  */
 	 public static void main(String[]args) {
-		 System.out.println("HelloWorld!");
+		 System.out.println("Hello　World!");
 	 }
  }
