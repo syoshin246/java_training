@@ -1,9 +1,9 @@
-package 演算子_実力確認問題;
+package java2enzansi;
 
 /**
  * HelloWorld クラス
  */
- public class 演算子2_実践2 {
+ public class enzansi2 {
 	 /**
 	  * main メソッド
 	  * @param args 実行引数
