@@ -1,9 +1,9 @@
-package if文_実力確認問題;
+package java_if;
 import java.io.*;
 /**
  * HelloWorld クラス
  */
- public class if文_実践3_1_2 {
+ public class If_3_1_2 {
 	 /**
 	  * main メソッド
 	  * @param args 実行引数
