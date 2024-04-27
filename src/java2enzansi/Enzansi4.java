@@ -3,7 +3,7 @@ package java2enzansi;
 /**
  * HelloWorld クラス
  */
- public class enzansi4 {
+ public class Enzansi4 {
 	 /**
 	  * main メソッド
 	  * @param args 実行引数
