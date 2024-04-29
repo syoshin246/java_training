@@ -1,11 +1,14 @@
 package java_if;
 import java.io.*;
 /**
- * HelloWorld クラス
+ * 実力確認問題/03.if文 1 ケース2
  */
  public class If_3_1_2 {
 	 /**
-	  * main メソッド
+	  * 入力した値が80 点以上：「たいへんよくできました。」
+　　　　　　*　　　　　　　　　60 点以上、80 点未満：「よくできました。」
+	  *         60 点未満：「ざんねんでした。」を出力する。
+	  * 
 	  * @param args 実行引数
 	  */
 	 public static void main(String[]args)throws IOException

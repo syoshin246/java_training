@@ -1,11 +1,15 @@
 package java_if;
 import java.io.*;
 /**
- * HelloWorld クラス
+ * 実力確認問題/03.if文 2
  */
  public class If_3_2 {
 	 /**
-	  * main メソッド
+	  * xとyに入れたい数字を入力後、
+	  * 以下の条件に該当する言葉が出力される。
+	  * 　x は y より小さく、かつ、x と y は共に偶数である。
+	  * 　x と y は等しく、かつ、負の数である。
+	  * 　x は y より小さい、または、x は偶数である。
 	  * @param args 実行引数
 	  */
 	 public static void main(String[]args)throws IOException

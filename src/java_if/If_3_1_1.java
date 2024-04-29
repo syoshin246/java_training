@@ -1,11 +1,12 @@
 package java_if;
 import java.io.*;
 /**
- * HelloWorld クラス
+ * 実力確認問題/03.if文 1 ケース1
  */
  public class If_3_1_1 {
 	 /**
-	  * main メソッド
+	  * 入力した値が60 点以上：「合格」
+　　　　　　*　　　　　　　　　60 点未満：「不合格」を出力する
 	  * @param args 実行引数
 	  */
 	 public static void main(String[]args)throws IOException
