@@ -1,11 +1,12 @@
-package java2enzansi;
+package enzansi;
 
 /**
- * HelloWorld クラス
+ * 実力確認問題　2．演算子　3
  */
  public class Enzansi3 {
 	 /**
 	  * main メソッド
+	  * int 型の変数 x、y に任意の数値を代入し、x の値を y に、y の値を x に入れ替えて x と y の値を表示。
 	  * @param args 実行引数
 	  */
 	 public static void main(String[]args) {
